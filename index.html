@@ -1,7 +1,40 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: home
-author_profile: true
+title: ""
+layout: splash
+permalink: 
+date: 2016-03-23T11:48:41-04:00
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/george.jpg
+  caption: "Actual photo TBD."
+excerpt: "**Cognition, Creativity and Communication**"
+intro: 
+  - excerpt: 'Here at the C3 Lab, we believe in fostering a more equitable and accessible relationship with data.  Diversity and collaboration have been shown to be essential in producing the best ideas. The C3 Lab thus builds systems to create space for new perspectives and to provide access for new participants.'
+feature_row:
+  - image_path: assets/images/scales.jpg
+    alt: "placeholder image 1"
+    title: "Projects"
+    excerpt: "Some of the research work being performed by the C3 lab and its partners."
+    url: "/projects/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/kris-talking.jpg
+    alt: "placeholder image 2"
+    title: "Activities"
+    excerpt: "In addition to our research work, the C3 Lab and its members are involved in a variety of endeavors across the Northwestern campus."
+    url: "/activities/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/alex.jpg
+    alt: "placeholder image 3"
+    title: "People"
+    excerpt: "The hardworking folks who make up the C3 Lab."
+    url: "/people/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
+
+{% include feature_row id="intro" type="center" %}
+
+{% include feature_row %}

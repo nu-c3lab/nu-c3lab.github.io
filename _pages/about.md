@@ -1,8 +1,16 @@
 ---
 permalink: /about/
-title: "About"
+title: "About the C3 Lab"
+
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/george.jpg
+  caption: "Actual photo TBD."
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Data are everywhere: estimates suggest we generate an entirely new Library of Congress worth of data every day.  An entire “Big Data” industry has emerged, promising access, insight, and impact.  But most people are left out, lacking either the technical expertise to use a tool or the domain understanding to interpret the data (and oftentimes, both).  Many people thus cannot participate in conversations about what data are recorded, how they are captured, in which ways they are processed, etc.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Here at the C3 Lab, **we believe in fostering a more equitable and accessible relationship with data.**  Diversity and collaboration have been shown to be essential in producing the best ideas.  Technologists are great, but they are human: they do not have all the answers.  The C3 Lab thus **builds systems to create space for new perspectives and to provide access for new participants.**  We are agnostic to subject matter, individual roles, and technology stacks; instead we focus on people, problems, and possibility.  
+
+The C3 Lab is part of the Department of Computer Science in the McCormick School of Engineering at Northwestern University, and is led by Dr. Kristian Hammond, the Bill and Cathy Osborn Professor of Computer Science, Director of CS+X, and Director of the MS in Artificial Intelligence program.
