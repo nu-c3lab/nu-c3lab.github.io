@@ -17,7 +17,7 @@ activity1:
     btn_label: "Read More"
     btn_class: "btn--primary"
 activity2:
-  - image_path: /assets/images/kris-talking.jpg
+  - image_path: /assets/images/c3-placeholder.png
     alt: "placeholder image 2"
     title: "Seminar Class Presentations"
     excerpt: 'More than eighty students took the Practicum in Intelligent Systems course offered by Dr. Kristian Hammond in the 2020 spring quarter.  These self-motivated students, undeterred by the challenges of remote learning during the global coronavirus pandemic, pursued projects relating to natural language understanding, COVID-19 monitoring, and conversational agents.'
@@ -25,7 +25,7 @@ activity2:
     btn_label: "Read More"
     btn_class: "btn--primary"
 activity3:
-  - image_path: /assets/images/kris-talking.jpg
+  - image_path: /assets/images/c3-placeholder.png
     alt: "placeholder image 2"
     title: "\"Battling the Bottleneck\" Webinar"
     excerpt: 'The Buffett Institute on Global Affairs hosted Dr. Kristian Hammond and Dr. Hani Mahmassani to discuss the impact of COVID-19 on supply chains.  Dr. Hammond and Dr. Mahmassani touched on the vulnerabilities of existing supply chains, the viability of supplementary models, and the future of logistics in a post-COVID world.'
@@ -33,7 +33,7 @@ activity3:
     btn_label: "Read More"
     btn_class: "btn--primary"
 activity4:
-  - image_path: /assets/images/kris-talking.jpg
+  - image_path: /assets/images/c3-placeholder.png
     alt: "placeholder image 2"
     title: "CS+Law Symposium"
     excerpt: 'Braving the Chicago winter, several dozen computer scientists and legal scholars gathered at Northwestern’s Pritzker School of Law to discuss the intersection of technology and the law.  Presenters, several of whom had flown in for the event, touched upon topics ranging from digital ethics to the application of network theory to patent law to novel legal constructs made possible through artificial intelligence technology.'
@@ -41,7 +41,7 @@ activity4:
     btn_label: "Read More"
     btn_class: "btn--primary"
 activity5:
-  - image_path: /assets/images/kris-talking.jpg
+  - image_path: /assets/images/c3-placeholder.png
     alt: "placeholder image 2"
     title: "MSAI Practicum Presentations"
     excerpt: 'The graduates of Northwestern’s inaugural Master of Science in Artificial Intelligence (MSAI) program gathered at the Ford Motor Company Engineering Design Center to present the results of their term-long practicum projects.  The students formed groups around a variety of real-world artificial intelligence problems curated by the MSAI program, whose subjects ranged from manufacturing optimization to conversational interface development to model design for time-series data.'
