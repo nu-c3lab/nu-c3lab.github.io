@@ -1,5 +1,13 @@
 # Minimal Mistakes remote theme starter
 
+## Useful Links
+
+[How to run the site locally](https://docs.github.com/en/github/working-with-github-pages/testing-your-github-pages-site-locally-with-jekyll)
+
+[Minimal Mistakes Theme Documentation](https://mmistakes.github.io/minimal-mistakes/docs/layouts/)
+
+## Quick Start from Scratch
+
 Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
 
 Contains basic configuration to get you a site with:
