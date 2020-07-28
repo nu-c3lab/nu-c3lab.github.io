@@ -3,9 +3,8 @@ permalink: /activities/
 title: "Activities"
 
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/nu-campus.png
+  overlay_color: "#4e2a84"
+  overlay_filter: "0.0"
 
 activity1:
   - image_path: /assets/images/kris-talking.jpg

@@ -3,10 +3,8 @@ permalink: /projects/
 title: "Projects"
 
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/nu-campus.png
-
+  overlay_color: "#4e2a84"
+  overlay_filter: "0.0"
 
 project1:
   - image_path: /assets/images/scales.jpg

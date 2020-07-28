@@ -1,5 +1,5 @@
 ---
-title: "Welcome to the C3 Lab!"
+title: "Blog: Welcome to the C3 Lab!"
 date: 2020-07-26T15:34:30-04:00
 categories:
   - blog

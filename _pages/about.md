@@ -3,9 +3,8 @@ permalink: /about/
 title: "About the C3 Lab"
 
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/nu-campus.png
+  overlay_color: "#4e2a84"
+  overlay_filter: "0.0"
 ---
 
 Data are everywhere: estimates suggest we generate an entirely new Library of Congress worth of data every day.  An entire “Big Data” industry has emerged, promising access, insight, and impact.  But most people are left out, lacking either the technical expertise to use a tool or the domain understanding to interpret the data (and oftentimes, both).  Many people thus cannot participate in conversations about what data are recorded, how they are captured, in which ways they are processed, etc.

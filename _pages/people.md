@@ -3,9 +3,8 @@ permalink: /people/
 title: "People"
 
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/nu-campus.png
+  overlay_color: "#4e2a84"
+  overlay_filter: "0.0"
 
 feature_row:
   - image_path: assets/images/ph.jpg
@@ -45,7 +44,7 @@ feature_row:
     btn_class: "btn--primary"
   - image_path: /assets/images/ph.jpg
     alt: "placeholder image 3"
-    title: "Alex Einarsson"
+    title: "Alexander Einarsson"
     excerpt: "PhD Student"
     url: "#test-link"
     btn_label: "Personal Website"
