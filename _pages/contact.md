@@ -5,8 +5,7 @@ title: "Contact"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/george.jpg
-  caption: "Actual photo TBD."
+  overlay_image: /assets/images/nu-campus.png
 ---
 
 Interested in working with us, or learning more?  We would love to hear from you!
