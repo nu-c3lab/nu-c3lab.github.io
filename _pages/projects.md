@@ -7,7 +7,7 @@ header:
   overlay_filter: "0.0"
 
 project1:
-  - image_path: /assets/images/scales-circle.png
+  - image_path: /assets/images/scales-fit.png
     alt: "placeholder image 2"
     title: "Systematic Content Analysis of Litigation Events (SCALES)"
     excerpt: 'We are building a platform for understanding the federal judicial system through conversation, the Systematic Content Analysis of Litigation Events (SCALES).  For legal scholars, journalists, and laypeople who have questions about the courts, our work allows them to find answers without writing queries or phoning experts.  Much like a modern search engine, users can idly browse or pointedly inquire and the system will respond with an answer, a series of records, or a visualization as appropriate.  Analyses which once required a team of technologists and attorneys are now accessible to anyone with a web browser.'

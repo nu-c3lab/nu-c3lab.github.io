@@ -31,7 +31,7 @@ feature_row:
   - image_path: /assets/images/people/andrew.jpeg
     alt: "placeholder image 3"
     title: "Andrew Paley"
-    excerpt: "PhD Student"
+    excerpt: "PhD Candidate"
     url: "https://www.linkedin.com/in/andrewrpaley/"
     btn_label: "Personal Website"
     btn_class: "btn--primary"
