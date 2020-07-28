@@ -31,11 +31,11 @@ project3:
     btn_label: "Read More"
     btn_class: "btn--primary"
 project4:
-  - image_path: /assets/images/c3-placeholder.png
+  - image_path: /assets/images/mlii.jpg
     alt: "placeholder image 2"
     title: "Machine Learning Impact Initiative"
     excerpt: 'We are building a framework for understanding how the application of machine learning technologies may impact human health and safety.  The emergence of the internet of things and the growth of digital culture creates new pressures and opportunities for human beings.  While many researchers have done important work on singular issues such as algorithmic fairness, the holistic implications of these changes are both constantly evolving and incompletely understood.  We seek to build upon these efforts to develop a broad, comprehensive perspective which can guide future researchers and policymakers.'
-    url: "/"
+    url: "https://machinelearningimpact.northwestern.edu/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 project5:
