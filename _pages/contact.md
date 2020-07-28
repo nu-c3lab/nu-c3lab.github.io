@@ -5,6 +5,7 @@ title: "Contact"
 header:
   overlay_color: "#4e2a84"
   overlay_filter: "0.0"
+{: .header-formatting}
 ---
 
 Interested in working with us, or learning more?  We would love to hear from you!

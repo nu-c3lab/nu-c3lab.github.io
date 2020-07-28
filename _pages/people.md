@@ -5,6 +5,7 @@ title: "People"
 header:
   overlay_color: "#4e2a84"
   overlay_filter: "0.0"
+{: .header-formatting}
 
 feature_row:
   - image_path: assets/images/people/kris.jpg
