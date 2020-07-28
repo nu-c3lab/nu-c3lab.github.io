@@ -23,19 +23,19 @@ activity2:
     btn_label: "Read More"
     btn_class: "btn--primary"
 activity3:
-  - image_path: /assets/images/c3-placeholder.png
+  - image_path: /assets/images/buffett-talk.png
     alt: "placeholder image 2"
     title: "\"Battling the Bottleneck\" Webinar"
     excerpt: 'The Buffett Institute on Global Affairs hosted Dr. Kristian Hammond and Dr. Hani Mahmassani to discuss the impact of COVID-19 on supply chains.  Dr. Hammond and Dr. Mahmassani touched on the vulnerabilities of existing supply chains, the viability of supplementary models, and the future of logistics in a post-COVID world.'
-    url: "#test-link"
+    url: "https://buffett.northwestern.edu/news/2020/northwestern-computer-scientist-and-logistics-expert-discuss-moving-vital-supplies-to-the-front-lines-of-the-fight-against-covid-19.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
 activity4:
-  - image_path: /assets/images/c3-placeholder.png
+  - image_path: /assets/images/dan-talking.jpg
     alt: "placeholder image 2"
     title: "CS+Law Symposium"
     excerpt: 'Braving the Chicago winter, several dozen computer scientists and legal scholars gathered at Northwestern’s Pritzker School of Law to discuss the intersection of technology and the law.  Presenters, several of whom had flown in for the event, touched upon topics ranging from digital ethics to the application of network theory to patent law to novel legal constructs made possible through artificial intelligence technology.'
-    url: "#test-link"
+    url: "https://www.mccormick.northwestern.edu/computer-science/news-events/cs-plus-law-faculty-talks.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
 activity5:

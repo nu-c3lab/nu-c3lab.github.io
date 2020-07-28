@@ -7,88 +7,88 @@ header:
   overlay_filter: "0.0"
 
 feature_row:
-  - image_path: assets/images/ph.jpg
+  - image_path: assets/images/people/kris.jpg
     alt: "placeholder image 1"
     title: "Kristian Hammond"
     excerpt: "C3 Director and Bill and Cathy Osborn Professor of Computer Science"
-    url: "#test-link"
+    url: "https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/hammond-kristian.html"
     btn_label: "Personal Website"
     btn_class: "btn--primary"
-  - image_path: /assets/images/ph.jpg
+  - image_path: /assets/images/people/rachel.jpg
     alt: "placeholder image 2"
     title: "Rachel Adler"
     excerpt: "Visiting Associate Professor"
-    url: "#test-link"
+    url: "http://rachelfadler.com/"
     btn_label: "Personal Website"
     btn_class: "btn--primary"
-  - image_path: /assets/images/ph.jpg
+  - image_path: /assets/images/people/sarah.jpeg
     alt: "placeholder image 3"
     title: "Sarah Loehr"
     excerpt: "Leader, Machine Learning Impact Initiative"
-    url: "#test-link"
+    url: "https://www.linkedin.com/in/sarah-loehr-347855b3/"
     btn_label: "Personal Website"
     btn_class: "btn--primary"
-  - image_path: /assets/images/ph.jpg
+  - image_path: /assets/images/people/andrew.jpeg
     alt: "placeholder image 3"
     title: "Andrew Paley"
     excerpt: "PhD Student"
-    url: "#test-link"
+    url: "https://www.linkedin.com/in/andrewrpaley/"
     btn_label: "Personal Website"
     btn_class: "btn--primary"
-  - image_path: /assets/images/ph.jpg
+  - image_path: /assets/images/people/sergio.jpg
     alt: "placeholder image 3"
     title: "Sergio Servantez"
     excerpt: "PhD Student"
-    url: "#test-link"
+    url: "https://www.servantez.ai/"
     btn_label: "Personal Website"
     btn_class: "btn--primary"
-  - image_path: /assets/images/ph.jpg
+  - image_path: /assets/images/people/alex.jpg
     alt: "placeholder image 3"
     title: "Alexander Einarsson"
     excerpt: "PhD Student"
-    url: "#test-link"
+    url: "https://alexandereinarsson.github.io/"
     btn_label: "Personal Website"
     btn_class: "btn--primary"
-  - image_path: /assets/images/ph.jpg
+  - image_path: /assets/images/people/andong.jpg
     alt: "placeholder image 3"
     title: "Andong Luis Li Zhao"
     excerpt: "PhD Student"
-    url: "#test-link"
+    url: "https://andongluis.github.io/"
     btn_label: "Personal Website"
     btn_class: "btn--primary"
-  - image_path: /assets/images/ph.jpg
+  - image_path: /assets/images/people/marko.jpg
     alt: "placeholder image 3"
     title: "Marko Sterbentz"
     excerpt: "PhD Student"
-    url: "#test-link"
+    url: "https://www.markosterbentz.com/"
     btn_label: "Personal Website"
     btn_class: "btn--primary"
-  - image_path: /assets/images/ph.jpg
+  - image_path: /assets/images/people/cameron.jpg
     alt: "placeholder image 3"
     title: "Cameron Barrie"
     excerpt: "PhD Student"
-    url: "#test-link"
+    url: "https://barrieca.github.io/"
     btn_label: "Personal Website"
     btn_class: "btn--primary"
-  - image_path: /assets/images/ph.jpg
+  - image_path: /assets/images/people/mohammed.jpg
     alt: "placeholder image 3"
     title: "Mohammed Alam"
     excerpt: "Teaching Postdoc"
-    url: "#test-link"
+    url: "http://mohammedalam.weebly.com/"
     btn_label: "Personal Website"
     btn_class: "btn--primary"
-  - image_path: /assets/images/ph.jpg
+  - image_path: /assets/images/people/vamsi.jpeg
     alt: "placeholder image 3"
     title: "Vamsi Banda"
     excerpt: "Researcher"
-    url: "#test-link"
+    url: "https://www.linkedin.com/in/vamsibanda/"
     btn_label: "Personal Website"
     btn_class: "btn--primary"
-  - image_path: /assets/images/ph.jpg
+  - image_path: /assets/images/people/harper.jpeg
     alt: "placeholder image 3"
     title: "Harper Pack"
     excerpt: "Research Administrator"
-    url: "#test-link"
+    url: "https://www.linkedin.com/in/harper-pack-635068b3/"
     btn_label: "Personal Website"
     btn_class: "btn--primary"
 ---
