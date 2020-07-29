@@ -5,7 +5,9 @@ title: "Projects"
 header:
   overlay_color: "#4e2a84"
   overlay_filter: "0.0"
-{: .header-formatting}
+
+classes:
+  - solid-header-formatting
 
 project1:
   - image_path: /assets/images/scales-fit.png

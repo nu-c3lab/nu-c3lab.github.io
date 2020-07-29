@@ -10,10 +10,10 @@ $link-color: #4e2a84;
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-.header-formatting {
+.solid-header-formatting .page__hero--overlay {
     padding: 0.5em 0;
 }
 
-.header-formatting h1 {
-    margin: 0;
+.solid-header-formatting .page__hero--overlay h1 {
+    margin: 0 0 0.25em 0;
 }
