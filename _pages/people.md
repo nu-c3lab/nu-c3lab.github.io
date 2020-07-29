@@ -13,7 +13,7 @@ feature_row:
   - image_path: assets/images/people/kris.jpg
     alt: "placeholder image 1"
     title: "Kristian Hammond"
-    excerpt: "C3 Director and Bill and Cathy Osborn Professor of Computer Science"
+    excerpt: "C3 Director, Bill and Cathy Osborn Professor of Computer Science"
     url: "https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/hammond-kristian.html"
     btn_label: "Personal Website"
     btn_class: "btn--primary"
@@ -24,11 +24,11 @@ feature_row:
     url: "http://rachelfadler.com/"
     btn_label: "Personal Website"
     btn_class: "btn--primary"
-  - image_path: /assets/images/people/sarah.jpeg
+  - image_path: /assets/images/people/mohammed.jpg
     alt: "placeholder image 3"
-    title: "Sarah Loehr"
-    excerpt: "Leader, Machine Learning Impact Initiative"
-    url: "https://www.linkedin.com/in/sarah-loehr-347855b3/"
+    title: "Mohammed Alam"
+    excerpt: "Teaching Postdoc"
+    url: "http://mohammedalam.weebly.com/"
     btn_label: "Personal Website"
     btn_class: "btn--primary"
   - image_path: /assets/images/people/andrew.jpeg
@@ -73,13 +73,6 @@ feature_row:
     url: "https://barrieca.github.io/"
     btn_label: "Personal Website"
     btn_class: "btn--primary"
-  - image_path: /assets/images/people/mohammed.jpg
-    alt: "placeholder image 3"
-    title: "Mohammed Alam"
-    excerpt: "Teaching Postdoc"
-    url: "http://mohammedalam.weebly.com/"
-    btn_label: "Personal Website"
-    btn_class: "btn--primary"
   - image_path: /assets/images/people/vamsi.jpeg
     alt: "placeholder image 3"
     title: "Vamsi Banda"
@@ -94,6 +87,10 @@ feature_row:
     url: "https://www.linkedin.com/in/harper-pack-635068b3/"
     btn_label: "Personal Website"
     btn_class: "btn--primary"
+  - image_path: /assets/images/people/sarah.jpg
+    alt: "placeholder image 3"
+    title: "Sarah Loehr"
+    excerpt: "Research Specialist, Machine Learning Impact Initiative"
 ---
 
 {% include feature_row %}
