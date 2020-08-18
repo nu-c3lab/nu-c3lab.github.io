@@ -35,7 +35,7 @@ feature_row:
     alt: "placeholder image 3"
     title: "Andrew Paley"
     excerpt: "PhD Candidate"
-    url: "https://www.linkedin.com/in/andrewrpaley/"
+    url: "https://www.andrewpaley.dev"
     btn_label: "Personal Website"
     btn_class: "btn--primary"
   - image_path: /assets/images/people/sergio.jpg
@@ -94,4 +94,3 @@ feature_row:
 ---
 
 {% include feature_row %}
-
