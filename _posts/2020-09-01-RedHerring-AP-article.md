@@ -1,5 +1,5 @@
 ---
-title: "News: RedHerring.com interviews C3's Andrew Paley about his work with generative AI for music video animations"
+title: "News: RedHerring.com interviews C3's Andrew Paley about his work with generative AI for music video animation"
 date: 2020-09-01T17:11:30-05:00
 categories:
   - news
