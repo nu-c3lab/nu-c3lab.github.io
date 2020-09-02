@@ -1,6 +1,6 @@
 ---
 title: "News: Emergency Resource Exchange Connects Healthcare Providers to COVID-19 Medical Supplies"
-date: 2020-04-02T15:34:30-04:00
+date: 2020-04-02T15:34:30-05:00
 categories:
   - news
 tags:

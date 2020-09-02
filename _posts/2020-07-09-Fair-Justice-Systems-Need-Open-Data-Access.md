@@ -1,6 +1,6 @@
 ---
 title: "News: Fair Justice Systems Need Open Data Access"
-date: 2020-07-09T15:34:30-04:00
+date: 2020-07-09T15:34:30-05:00
 categories:
   - news
 tags:
