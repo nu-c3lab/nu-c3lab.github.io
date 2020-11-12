@@ -20,7 +20,7 @@ feature_row:
   - image_path: /assets/images/people/rachel.jpg
     alt: "placeholder image 2"
     title: "Rachel Adler"
-    excerpt: "Visiting Associate Professor"
+    excerpt: "Affiliate Faculty"
     url: "http://rachelfadler.com/"
     btn_label: "Personal Website"
     btn_class: "btn--primary"
