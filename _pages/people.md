@@ -31,7 +31,7 @@ feature_row:
     url: "http://mohammedalam.weebly.com/"
     btn_label: "Personal Website"
     btn_class: "btn--primary"
-  - image_path: /assets/images/people/andrew.jpeg
+  - image_path: /assets/images/people/andrew.png
     alt: "Picture of Andrew"
     title: "Andrew Paley"
     excerpt: "PhD Candidate"
