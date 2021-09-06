@@ -10,7 +10,7 @@ classes:
   - solid-header-formatting
 ---
 
-Interested in working with us, or learning more?  We would love to hear from you!
+Interested in working with us or learning more?  We would love to hear from you!
 
 ## Email
 

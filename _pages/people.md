@@ -9,7 +9,7 @@ header:
 classes:
   - solid-header-formatting
 
-feature_row:
+current_people:
   - image_path: assets/images/people/kris.jpg
     alt: "Picture of Kristian"
     title: "Kristian Hammond"
@@ -41,45 +41,50 @@ feature_row:
   - image_path: /assets/images/people/sergio.jpg
     alt: "Picture of Sergio"
     title: "Sergio Servantez"
-    excerpt: "PhD Student"
+    excerpt: "PhD Candidate"
     url: "https://www.servantez.ai/"
     btn_label: "Personal Website"
     btn_class: "btn--primary"
   - image_path: /assets/images/people/alex.jpg
     alt: "Picture of Alex"
     title: "Alexander Einarsson"
-    excerpt: "PhD Student"
+    excerpt: "PhD Candidate"
     url: "https://alexandereinarsson.github.io/"
     btn_label: "Personal Website"
     btn_class: "btn--primary"
   - image_path: /assets/images/people/andong.jpg
     alt: "Picture of Andong"
     title: "Andong Luis Li Zhao"
-    excerpt: "PhD Student"
+    excerpt: "PhD Candidate"
     url: "https://andongluis.github.io/"
     btn_label: "Personal Website"
     btn_class: "btn--primary"
   - image_path: /assets/images/people/marko.jpg
     alt: "Picture of Marko"
     title: "Marko Sterbentz"
-    excerpt: "PhD Student"
+    excerpt: "PhD Candidate"
     url: "https://www.markosterbentz.com/"
     btn_label: "Personal Website"
     btn_class: "btn--primary"
   - image_path: /assets/images/people/cameron.jpg
     alt: "Picture of Cameron"
     title: "Cameron Barrie"
-    excerpt: "PhD Student"
+    excerpt: "PhD Candidate"
     url: "https://barrieca.github.io/"
     btn_label: "Personal Website"
     btn_class: "btn--primary"
-  - image_path: /assets/images/people/vamsi.jpeg
-    alt: "Picture of Vamsi"
-    title: "Vamsi Banda"
-    excerpt: "Researcher"
-    url: "https://www.linkedin.com/in/vamsibanda/"
-    btn_label: "Personal Website"
-    btn_class: "btn--primary"
+  - image_path: /assets/images/c3-placeholder-square.png
+    alt: "Picture of Chris"
+    title: "Chris Coleman"
+    excerpt: "PhD Student"
+  - image_path: /assets/images/c3-placeholder-square.png
+    alt: "Picture of Donna"
+    title: "Donna Hooshmand"
+    excerpt: "PhD Student"
+  - image_path: /assets/images/c3-placeholder-square.png
+    alt: "Picture of Alex"
+    title: "Alex Reneau"
+    excerpt: "PhD Student"
   - image_path: /assets/images/people/harper.jpeg
     alt: "Picture of Harper"
     title: "Harper Pack"
@@ -93,4 +98,7 @@ feature_row:
     excerpt: "Research Specialist, Machine Learning Impact Initiative"
 ---
 
-{% include feature_row %}
+{% include feature_row id="current_people" %}
+
+### Alumni
+- Vamsi Banda *(MSAI 2020)*

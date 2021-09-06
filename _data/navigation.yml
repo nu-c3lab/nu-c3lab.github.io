@@ -3,10 +3,12 @@ main:
     url: /about/
   - title: "Projects"
     url: /projects/
-  - title: "Activities"
-    url: /activities/
   - title: "People"
     url: /people/
+  - title: "Activities"
+    url: /activities/
+  - title: "Publications"
+    url: /publications/
   - title: "Contact"
     url: /contact/
   - title: "News"
