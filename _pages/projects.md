@@ -18,9 +18,9 @@ project1:
     btn_label: "Read More"
     btn_class: "btn--primary"
 project2:
-  - image_path: /assets/images/mimir.jpg
+  - image_path: /assets/images/c3-placeholder.png
     alt: "placeholder image 2"
-    title: "Mim (Knowledge Companion)"
+    title: "Mim"
     excerpt: 'We are building a companion to answer questions about information found in unstructured text - in particular, encyclopedia articles.  Users often consult encyclopedias because they want to know something, not because they want to read articles.  But text is invariant in the face of varying users’ needs.  Our system elevates static writing into a dynamic presence, enabling users to discover and dissect information through conversation.  If you want to know something, you no longer need to research the answer: you can just ask.'
     url: "/"
     btn_label: "Read More"
