@@ -94,7 +94,7 @@ current_people:
     btn_class: "btn--primary"
   - image_path: /assets/images/people/sarah.jpg
     alt: "Picture of Sarah"
-    title: "Sarah Loehr"
+    title: "Sarah Spurlock"
     excerpt: "Research Specialist, Machine Learning Impact Initiative"
 ---
 
