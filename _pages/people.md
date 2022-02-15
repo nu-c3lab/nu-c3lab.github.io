@@ -27,7 +27,7 @@ current_people:
   - image_path: /assets/images/people/mohammed.jpg
     alt: "Picture of Mohammed"
     title: "Mohammed Alam"
-    excerpt: "Teaching Postdoc"
+    excerpt: "Assistant Professor of Instruction, Deputy Director of MSAI"
     url: "http://mohammedalam.weebly.com/"
     btn_label: "Personal Website"
     btn_class: "btn--primary"
