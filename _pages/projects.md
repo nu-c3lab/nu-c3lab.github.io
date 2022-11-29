@@ -18,7 +18,7 @@ project1:
     btn_label: "Read More"
     btn_class: "btn--primary"
 project2:
-  - image_path: /assets/images/c3-placeholder.png
+  - image_path: /assets/images/mimir.png
     alt: "placeholder image 2"
     title: "Mim"
     excerpt: 'We are building a companion to answer questions about information found in unstructured text - in particular, encyclopedia articles.  Users often consult encyclopedias because they want to know something, not because they want to read articles.  But text is invariant in the face of varying users’ needs.  Our system elevates static writing into a dynamic presence, enabling users to discover and dissect information through conversation.  If you want to know something, you no longer need to research the answer: you can just ask.'
@@ -46,7 +46,7 @@ project5:
     alt: "placeholder image 2"
     title: "COVID Resource Response"
     excerpt: 'We have built a tool for evaluating and responding to requests for essential resources in emergency situations.  Crises, such as the ongoing coronavirus pandemic, require extraordinary mobilization of expertise and resources beyond what established networks and policies can provide.  Credible information and open communication are foundational to mounting a proper response, so we developed both an exchange, for sharing and obtaining critical resources, and a dashboard, for illustrating where and which needs are most pressing.  Organizations and policymakers armed with these tools can make better decisions about allocations and interventions - whatever the issue at hand may be. '
-    url: "https://covid-resource-map.com/"
+    url: "/projects/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 project6:
