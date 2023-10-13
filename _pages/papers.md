@@ -1,6 +1,6 @@
 ---
-permalink: /publications/
-title: "Publications"
+permalink: /papers/
+title: "Paper"
 
 header:
   overlay_color: "#4e2a84"
@@ -9,7 +9,7 @@ header:
 classes:
   - solid-header-formatting
 
-publication1:
+paper1:
   - image_path: /assets/images/c3-placeholder.png
     alt: "placeholder image 1"
     title: "From Data to Information: Automating Data Science to Explore the US Court System"
@@ -17,7 +17,7 @@ publication1:
     excerpt: "Paley, Andrew, Andong L. Li Zhao, Harper Pack, Sergio Servantez, Rachel F. Adler, Marko Sterbentz, Adam Pah et al. \"From data to information: automating data science to explore the US court system.\" In <i>Proceedings of the Eighteenth International Conference on Artificial Intelligence and Law</i>, pp. 119-128. 2021."
     btn_label: "Paper"
     btn_class: "btn--primary"
-publication2:
+paper2:
   - image_path: /assets/images/c3-placeholder.png
     alt: "placeholder image 2"
     title: "How to build a more open justice system"
@@ -25,18 +25,20 @@ publication2:
     url: "https://par.nsf.gov/servlets/purl/10170352"
     btn_label: "Paper"
     btn_class: "btn--primary"
-publication3:
+paper3:
   - image_path: /assets/images/c3-placeholder.png
     alt: "placeholder image 3"
     title: "Lightweight Knowledge Representations for Automating Data Analysis"
     excerpt: "Marko Sterbentz, Cameron Barrie, Donna Hooshmand, Shubham Shahi, Abhratanu Dutta, Charles Pack, Andong Li Zhao, Andrew Paley, Alexander Einarsson, Kristian Hammond (preprint)"
-    url: "/assets/images/Lightweight_Knowledge_Representations_for_Automating_Data_Analysis__Arxiv_2023_.pdf"
+    url: "/assets/papers/Lightweight_Knowledge_Representations_for_Automating_Data_Analysis__Arxiv_2023_.pdf"
     btn_label: "Paper"
     btn_class: "btn--primary"
 
 ---
 
-{% include feature_row id="publication1" type="left" %}
+{% include feature_row id="paper1" type="left" %}
 
-{% include feature_row id="publication2" type="left" %}
+{% include feature_row id="paper2" type="left" %}
+
+{% include feature_row id="paper3" type="left" %}
 

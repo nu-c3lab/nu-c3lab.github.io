@@ -7,8 +7,8 @@ main:
     url: /people/
   - title: "Activities"
     url: /activities/
-  - title: "Publications"
-    url: /publications/
+  - title: "Papers"
+    url: /papers/
   - title: "Contact"
     url: /contact/
   - title: "News"
