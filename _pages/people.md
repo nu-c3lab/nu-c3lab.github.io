@@ -17,13 +17,6 @@ current_people:
     url: "https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/hammond-kristian.html"
     btn_label: "Personal Website"
     btn_class: "btn--primary"
-  - image_path: /assets/images/people/rachel.jpg
-    alt: "Picture of Rachel"
-    title: "Rachel Adler"
-    excerpt: "Affiliate Faculty"
-    url: "http://rachelfadler.com/"
-    btn_label: "Personal Website"
-    btn_class: "btn--primary"
   - image_path: /assets/images/people/mohammed.jpg
     alt: "Picture of Mohammed"
     title: "Mohammed Alam"
@@ -81,10 +74,6 @@ current_people:
     alt: "Picture of Donna"
     title: "Donna Hooshmand"
     excerpt: "PhD Student"
-  - image_path: /assets/images/c3-placeholder-square.png
-    alt: "Picture of Alex"
-    title: "Alex Reneau"
-    excerpt: "PhD Student"
   - image_path: /assets/images/people/harper.jpeg
     alt: "Picture of Harper"
     title: "Harper Pack"
@@ -92,10 +81,6 @@ current_people:
     url: "https://www.linkedin.com/in/harper-pack-635068b3/"
     btn_label: "Personal Website"
     btn_class: "btn--primary"
-  - image_path: /assets/images/people/sarah.jpg
-    alt: "Picture of Sarah"
-    title: "Sarah Spurlock"
-    excerpt: "Research Specialist, Machine Learning Impact Initiative"
 ---
 
 {% include feature_row id="current_people" %}
