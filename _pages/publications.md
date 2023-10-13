@@ -25,6 +25,14 @@ publication2:
     url: "https://par.nsf.gov/servlets/purl/10170352"
     btn_label: "Paper"
     btn_class: "btn--primary"
+publication3:
+  - image_path: /assets/images/c3-placeholder.png
+    alt: "placeholder image 3"
+    title: "Lightweight Knowledge Representations for Automating Data Analysis"
+    excerpt: "Marko Sterbentz, Cameron Barrie, Donna Hooshmand, Shubham Shahi, Abhratanu Dutta, Charles Pack, Andong Li Zhao, Andrew Paley, Alexander Einarsson, Kristian Hammond (preprint)"
+    url: "assets/papers/Lightweight_Knowledge_Representations_for_Automating_Data_Analysis__Arxiv_2023_"
+    btn_label: "Paper"
+    btn_class: "btn--primary"
 
 ---
 
