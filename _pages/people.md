@@ -77,7 +77,7 @@ current_people:
   - image_path: /assets/images/people/harper.jpeg
     alt: "Picture of Harper"
     title: "Harper Pack"
-    excerpt: "Research Administrator"
+    excerpt: "Research Associate"
     url: "https://www.linkedin.com/in/harper-pack-635068b3/"
     btn_label: "Personal Website"
     btn_class: "btn--primary"
