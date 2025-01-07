@@ -5,11 +5,7 @@ main:
     url: /projects/
   - title: "People"
     url: /people/
-  - title: "Activities"
-    url: /activities/
   - title: "Papers"
     url: /papers/
   - title: "Contact"
     url: /contact/
-  - title: "News"
-    url: /posts/
