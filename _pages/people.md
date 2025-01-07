@@ -10,7 +10,7 @@ classes:
   - solid-header-formatting
 
 current_people:
-  - image_path: assets/images/people/kris.jpg
+  - image_path: assets/images/people/kris-modern.jpg
     alt: "Picture of Kristian"
     title: "Kristian Hammond"
     excerpt: "C3 Director, Bill and Cathy Osborn Professor of Computer Science"
@@ -70,10 +70,27 @@ current_people:
     alt: "Picture of Chris"
     title: "Chris Coleman"
     excerpt: "PhD Student"
-  - image_path: /assets/images/c3-placeholder-square.png
+  - image_path: /assets/images/people/donna.jpeg
     alt: "Picture of Donna"
     title: "Donna Hooshmand"
+    excerpt: "PhD Candidate"
+    url: "https://donnahooshmand.com/"
+    btn_label: "Personal Website"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/c3-placeholder-square.png
+    alt: "Picture of Shubham"
+    title: "Shubham Shahi"
     excerpt: "PhD Student"
+    url: "https://www.linkedin.com/in/shahi-shubham"
+    btn_label: "Personal Website"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/people/abhro.png
+    alt: "Picture of Abhratanu"
+    title: "Abhratanu Dutta"
+    excerpt: "Postdoc Scholar at CASMI"
+    url: "https://sites.northwestern.edu/abhratanu/"
+    btn_label: "Personal Website"
+    btn_class: "btn--primary"
   - image_path: /assets/images/people/harper.jpeg
     alt: "Picture of Harper"
     title: "Harper Pack"
