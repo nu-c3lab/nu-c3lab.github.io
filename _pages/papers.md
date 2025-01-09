@@ -97,7 +97,6 @@ paper11:
     url: "https://par.nsf.gov/servlets/purl/10170352"
     btn_label: "Paper"
     btn_class: "btn--primary"
-
 ---
 
 {% include feature_row id="paper1" type="left" %}
@@ -121,4 +120,3 @@ paper11:
 {% include feature_row id="paper10" type="left" %}
 
 {% include feature_row id="paper11" type="left" %}
-
