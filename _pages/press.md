@@ -26,7 +26,7 @@ project2:
     btn_label: "Read More"
     btn_class: "btn--primary"
 project3:
-  - image_path: /assets/images/c3-placeholder.png
+  - image_path: /assets/images/msai_with_globe_watermark.png
     alt: "placeholder image 2"
     title: "Master of Artificial Intelligence"
     excerpt: "Northwestern’s Master of Science in Artificial Intelligence (MSAI) program aims to serve this demand by producing graduates who have exceptional technical skills to create new AI systems and who also understand the nature of the human environments in which the systems they build will be deployed."

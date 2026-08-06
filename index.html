@@ -16,50 +16,38 @@ rep_row:
     title: "Research"
     excerpt: "Some of the research work being performed by the C3 lab and its partners.<br><br>"
     url: "/research/"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
   - image_path: /assets/images/kris-talking.jpg
     alt: "engagement placeholder"
     title: "Engagement"
     excerpt: "In addition to our research work, the C3 Lab and its members are involved in a variety of endeavors across the Northwestern campus."
     url: "/engagement/"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
   - image_path: /assets/images/lakefill-small.jpg
     alt: "people placeholder"
     title: "People"
     excerpt: "The hardworking folks who make up the C3 Lab.<br><br>"
     url: "/people/"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
 ppp_row:
-  - image_path: /assets/images/c3-placeholder.png
+  - image_path: /assets/images/partners.jpg
     alt: "partners placeholder"
     title: "Partners"
     excerpt: ""
     url: "/partners/"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/c3-placeholder.png
+  - image_path: /assets/images/publication.png
     alt: "papers placeholder"
     title: "Papers"
     excerpt: ""
     url: "/papers/"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/c3-placeholder.png
+  - image_path: /assets/images/press.jpg
     alt: "people placeholder"
     title: "Press"
     excerpt: ""
     url: "/press/"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
 ---
 
 <div class="intro-content">
   {% include feature_row id="intro" type="center" %}
 </div>
 
-{% include feature_row id="rep_row" %}
+{% include linked_feature_row.html id="rep_row" %}
 
-{% include feature_row id="ppp_row" %}
+{% include linked_feature_row.html id="ppp_row" %}
