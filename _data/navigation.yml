@@ -1,8 +1,10 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Projects"
-    url: /projects/
+  - title: "Research"
+    url: /research/
+  - title: "Engagement"
+    url: /engagement/
   - title: "People"
     url: /people/
   - title: "Papers"

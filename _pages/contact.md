@@ -17,10 +17,10 @@ Interested in working with us or learning more?  We would love to hear from you!
 c3@northwestern.edu
 ## Phone
 
-847.491.3741
+773.551.8020
 
 ## Campus Location:
-Room 3205
+Room 3209
 
 2233 Tech Drive
 

@@ -8,6 +8,7 @@ header:
 
 classes:
   - solid-header-formatting
+  - item-list
 
 current_people:
   - image_path: assets/images/people/kris-modern.jpg
@@ -24,34 +25,6 @@ current_people:
     url: "http://mohammedalam.weebly.com/"
     btn_label: "Personal Website"
     btn_class: "btn--primary"
-  - image_path: /assets/images/people/andrew.png
-    alt: "Picture of Andrew"
-    title: "Andrew Paley"
-    excerpt: "PhD Candidate"
-    url: "https://www.andrewpaley.dev"
-    btn_label: "Personal Website"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/people/sergio.jpg
-    alt: "Picture of Sergio"
-    title: "Sergio Servantez"
-    excerpt: "PhD Candidate"
-    url: "https://www.servantez.ai/"
-    btn_label: "Personal Website"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/people/alex.jpg
-    alt: "Picture of Alex"
-    title: "Alexander Einarsson"
-    excerpt: "PhD Candidate"
-    url: "https://alexandereinarsson.github.io/"
-    btn_label: "Personal Website"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/people/andong.jpg
-    alt: "Picture of Andong"
-    title: "Andong Luis Li Zhao"
-    excerpt: "PhD Candidate"
-    url: "https://andongluis.github.io/"
-    btn_label: "Personal Website"
-    btn_class: "btn--primary"
   - image_path: /assets/images/people/marko.jpg
     alt: "Picture of Marko"
     title: "Marko Sterbentz"
@@ -66,10 +39,6 @@ current_people:
     url: "https://barrieca.github.io/"
     btn_label: "Personal Website"
     btn_class: "btn--primary"
-  - image_path: /assets/images/c3-placeholder-square.png
-    alt: "Picture of Chris"
-    title: "Chris Coleman"
-    excerpt: "PhD Student"
   - image_path: /assets/images/people/donna.jpeg
     alt: "Picture of Donna"
     title: "Donna Hooshmand"
@@ -84,13 +53,6 @@ current_people:
     url: "https://www.linkedin.com/in/shahi-shubham"
     btn_label: "Personal Website"
     btn_class: "btn--primary"
-  - image_path: /assets/images/people/abhro.png
-    alt: "Picture of Abhratanu"
-    title: "Abhratanu Dutta"
-    excerpt: "Postdoc Scholar at CASMI"
-    url: "https://sites.northwestern.edu/abhratanu/"
-    btn_label: "Personal Website"
-    btn_class: "btn--primary"
   - image_path: /assets/images/people/harper.jpeg
     alt: "Picture of Harper"
     title: "Harper Pack"
@@ -100,7 +62,12 @@ current_people:
     btn_class: "btn--primary"
 ---
 
-{% include feature_row id="current_people" %}
+{% include feature_row id="current_people" type="left" %}
 
 ### Alumni
+- Sergio Servantez *(Ph.D. 2026)*
+- Alexander Einarsson
+- Abhratanu Dutta *(Postdoc 2023-2025)*
+- Andong Luis Li Zhao
+- Andrew Paley
 - Vamsi Banda *(MSAI 2020)*

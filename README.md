@@ -6,6 +6,23 @@
 
 [Minimal Mistakes Theme Documentation](https://mmistakes.github.io/minimal-mistakes/docs/layouts/)
 
+## Run Locally
+
+This project uses Ruby 3.4.1. With
+[chruby](https://github.com/postmodern/chruby) installed, entering this
+directory selects that version automatically from `.ruby-version`.
+
+```sh
+chruby ruby-3.4.1
+ruby -v
+gem install bundler -v 2.6.2
+bundle install
+bundle exec jekyll serve
+```
+
+Open <http://localhost:4000>. Always run Jekyll through `bundle exec` so it
+uses the versions in `Gemfile.lock`; do not use `sudo` when installing gems.
+
 ## Quick Start from Scratch
 
 Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).

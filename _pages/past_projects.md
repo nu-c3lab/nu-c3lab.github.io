@@ -1,6 +1,6 @@
 ---
-permalink: /projects/
-title: "Projects"
+permalink: /past_projects/
+title: "Past Projects"
 
 header:
   overlay_color: "#4e2a84"
@@ -31,14 +31,6 @@ project3:
     title: "Otus"
     excerpt: 'We are building tools to help improve educational outcomes and experiences for students and teachers.  Rather than building instruments to digitize existing curricula, however, we are instead seeking to design mechanisms that improve engagement and learning.  Schools and their assorted technology partners are increasingly capturing operational data about student activity and performance; there is as of yet an unmet opportunity to mine this data for insights into student achievement.  We believe these data can help teachers to deliver more effective and personalized instruction, and in so doing meaningfully improve the school experience for students and communities.'
     url: "https://otus.com/"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-project4:
-  - image_path: /assets/images/casmi-text.png
-    alt: "placeholder image 2"
-    title: "Center for Advancing Safety of Machine Intelligence"
-    excerpt: 'We are connecting a research network at Northwestern, Underwriters Laboratories Inc., and partner universities to advance toward the operationalization of safety in machine intelligence. CASMI advances fundamental research, evaluates the human impacts of intelligent technologies, and develops best practices for the design, development, and evaluation of systems to ensure they are safe, equitable, and beneficial to all.'
-    url: "https://casmi.northwestern.edu/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 project5:

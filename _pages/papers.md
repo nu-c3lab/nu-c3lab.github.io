@@ -1,6 +1,6 @@
 ---
 permalink: /papers/
-title: "Paper"
+title: "Papers"
 
 header:
   overlay_color: "#4e2a84"

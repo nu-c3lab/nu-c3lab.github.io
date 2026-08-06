@@ -1,7 +1,8 @@
 source "https://rubygems.org"
 
+ruby "3.4.1"
+
 gem "github-pages", group: :jekyll_plugins
-gem "jekyll-include-cache", group: :jekyll_plugins
 
 gem "tzinfo-data"
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
