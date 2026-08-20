@@ -27,8 +27,8 @@ project3:
     excerpt: ''
 project4:
   - image_path: /assets/images/c3-placeholder.png
-    alt: "RetinaPainter"
-    title: "Retinal"
+    alt: "Retina painter image"
+    title: "RetinaPainter"
     excerpt: 'Emerging retinal biomarkers are subtle, rare, and annotatable only by specialists working slice by slice through OCT volumes, leaving datasets far too small for conventional supervised training. RetinaPainter is an interactive annotation and training platform that lets a clinician load a new OCT dataset and build a working detection model from a few dozen images. It replaces the train-from-scratch U-Net of earlier machine-teaching tools with a retinal foundation model backbone that updates in near real time as the expert brushes corrections onto its predictions, and stages training as a curriculum: synthetic lesions, then clear real cases, then faint or ambiguous ones.'
 project5:
   - image_path: /assets/images/c3-placeholder.png
