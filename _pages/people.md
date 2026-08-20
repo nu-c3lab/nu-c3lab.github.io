@@ -29,8 +29,8 @@ current_people:
     alt: "Picture of Cameron"
     name: "Cameron Barrie"
     title: "PhD Candidate"
-    expertise: ""
-    email: ""
+    expertise: "I work on conversational systems that help non-technical users derive insights about their data."
+    email: "cameron.barrie@u.northwestern.edu"
     website: "https://barrieca.github.io/"
   - image_path: /assets/images/people/donna.jpeg
     alt: "Picture of Donna"
@@ -78,6 +78,7 @@ current_people:
 - Sergio Servantez *(Ph.D. 2026)*
 - Alexander Einarsson
 - Abhratanu Dutta *(Postdoc 2023-2025)*
+- Kevin Cushing *(MS CS 2025)*
 - Andong Luis Li Zhao
 - Andrew Paley
 - Vamsi Banda *(MSAI 2020)*
