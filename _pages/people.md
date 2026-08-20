@@ -32,14 +32,6 @@ current_people:
     expertise: ""
     email: ""
     website: "https://barrieca.github.io/"
-  - image_path: /assets/images/people/aryan.jpg
-    alt: "Picture of Aryan"
-    name: "Aryan Dwivedi"
-    title: "MSAI Student"
-    expertise: "Curriculum Learning · Efficient Machine Learning · Adaptive Learning Systems · Efficient LLM Inference · Training Dynamics"
-    email: "aryandwivedi2026@u.northwestern.edu"
-    website: "https://www.linkedin.com/in/aryan-dwivedi-20aa56202/"
-    website_label: "LinkedIn"
   - image_path: /assets/images/people/donna.jpeg
     alt: "Picture of Donna"
     name: "Donna Hooshmand"
@@ -70,6 +62,14 @@ current_people:
     expertise: ""
     email: ""
     website: "https://www.markosterbentz.com/"
+  - image_path: /assets/images/people/aryan.jpg
+    alt: "Picture of Aryan"
+    name: "Aryan Dwivedi"
+    title: "MSAI Student"
+    expertise: "Curriculum Learning · Efficient Machine Learning · Adaptive Learning Systems · Efficient LLM Inference · Training Dynamics"
+    email: "aryandwivedi2026@u.northwestern.edu"
+    website: "https://www.linkedin.com/in/aryan-dwivedi-20aa56202/"
+    website_label: "LinkedIn"
 ---
 
 {% include person_list.html id="current_people" %}
