@@ -1,0 +1,42 @@
+{% assign people = page[include.id] %}
+
+<div class="people-list">
+  {% for person in people %}
+    {% assign expertise = person.expertise | strip %}
+    {% assign email = person.email | strip %}
+    {% assign website = person.website | strip %}
+
+    <div class="person">
+      {% if person.image_path %}
+        <div class="person__photo">
+          <img src="{{ person.image_path | relative_url }}" alt="{{ person.alt | default: person.name }}">
+        </div>
+      {% endif %}
+
+      <div class="person__info">
+        {% if person.name %}
+          <h3 class="person__name">{{ person.name }}</h3>
+        {% endif %}
+
+        {% if person.title %}
+          <p class="person__title">{{ person.title }}</p>
+        {% endif %}
+
+        <dl class="person__meta">
+          <dt>Expertise:</dt>
+          <dd>{% if expertise != "" %}{{ expertise }}{% else %}<span class="blank-field"></span>{% endif %}</dd>
+
+          <dt>Email:</dt>
+          {%- comment -%}
+            <wbr> after the @ lets a long address wrap at the domain boundary
+            instead of breaking mid-word.
+          {%- endcomment -%}
+          <dd>{% if email != "" %}{% assign email_parts = email | split: "@" %}<a href="mailto:{{ email }}">{{ email_parts[0] }}@<wbr>{{ email_parts[1] }}</a>{% else %}<span class="blank-field"></span>{% endif %}</dd>
+
+          <dt>Website:</dt>
+          <dd>{% if website != "" %}{% assign website_text = website | remove: "https://" | remove: "http://" | remove: "www." | split: "/" | first %}<a href="{{ website }}">{{ person.website_label | default: website_text }}</a>{% else %}<span class="blank-field"></span>{% endif %}</dd>
+        </dl>
+      </div>
+    </div>
+  {% endfor %}
+</div>

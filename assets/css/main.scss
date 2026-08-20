@@ -71,3 +71,102 @@ $link-color: #4e2a84;
 .linked-feature-tile .archive__item-title {
     color: $link-color;
 }
+
+/* People page -------------------------------------------------------------- */
+
+.people-list {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 2em;
+    margin: 1.5em 0 2.5em;
+}
+
+.person {
+    display: grid;
+    grid-template-columns: 7.5em 1fr;
+    gap: 1.25em;
+    align-items: start;
+}
+
+@media (max-width: 25em) {
+    .person {
+        grid-template-columns: 5.5em 1fr;
+        gap: 1em;
+    }
+}
+
+.person__photo {
+    aspect-ratio: 1 / 1;
+    overflow: hidden;
+    border-radius: 4px;
+}
+
+.person__photo img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+.person__info {
+    min-width: 0;
+}
+
+.person__name {
+    margin: 0 0 0.15em;
+    font-size: 1.15em;
+    line-height: 1.2;
+    color: $link-color;
+}
+
+.page__content .person__title {
+    margin: 0 0 0.6em;
+    font-size: 0.85em;
+    line-height: 1.35;
+    color: $muted-text-color;
+}
+
+/* Cap the value column so lines stay a readable length full-width. */
+.page__content .person__meta {
+    display: grid;
+    grid-template-columns: max-content minmax(0, 40em);
+    gap: 0.3em 0.6em;
+    margin: 0;
+    font-size: 0.8em;
+    line-height: 1.4;
+}
+
+.person__meta dt {
+    margin: 0;
+    font-weight: bold;
+    color: $muted-text-color;
+}
+
+.person__meta dd {
+    margin: 0;
+    min-width: 0;
+    overflow-wrap: break-word;
+}
+
+/* Placeholder line for values that have not been filled in yet.
+   Shared by the people cards and the project rows. */
+.blank-field {
+    display: inline-block;
+    width: 11em;
+    max-width: 100%;
+    height: 1.05em;
+    border-bottom: 1px dashed $border-color;
+}
+
+/* Project rows ------------------------------------------------------------- */
+
+.page__content .project__people {
+    margin: 0.5em 0 0;
+    font-size: 0.85em;
+    line-height: 1.4;
+}
+
+.project__people-label {
+    font-weight: bold;
+    color: $muted-text-color;
+}
