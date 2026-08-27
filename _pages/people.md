@@ -59,8 +59,8 @@ current_people:
     alt: "Picture of Marko"
     name: "Marko Sterbentz"
     title: "PhD Candidate"
-    expertise: ""
-    email: ""
+    expertise: "My research advances AI systems’ ability to reason over structured data. This work spans neurosymbolic reasoning and planning techniques for answering questions and generating contextualized reports, the creation of high-quality synthetic training data, and improved reinforcement learning techniques that strengthen large language models’ tabular reasoning capabilities."
+    email: "marko.sterbentz@u.northwestern.edu"
     website: "https://www.markosterbentz.com/"
   - image_path: /assets/images/people/aryan.jpg
     alt: "Picture of Aryan"

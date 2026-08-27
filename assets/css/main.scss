@@ -86,6 +86,9 @@ $link-color: #4e2a84;
     grid-template-columns: 7.5em 1fr;
     gap: 1.25em;
     align-items: start;
+    border-radius: 4px;
+    /* clear the masthead when arriving via a #name anchor */
+    scroll-margin-top: 5em;
 }
 
 @media (max-width: 25em) {
@@ -160,13 +163,51 @@ $link-color: #4e2a84;
 
 /* Project rows ------------------------------------------------------------- */
 
+/* Projects flagged `logo: true` use a wide logo, so show the whole mark inside
+   the square teaser box rather than cropping it the way `cover` would. */
+.item-list .feature__item--left .archive__item-teaser.project__teaser--logo img {
+    object-fit: contain;
+}
+
 .page__content .project__people {
     margin: 0.5em 0 0;
     font-size: 0.85em;
     line-height: 1.4;
 }
 
-.project__people-label {
+.project__people-label,
+.project__contact-label {
     font-weight: bold;
     color: $muted-text-color;
+}
+
+.page__content .project__contact {
+    margin: 0.25em 0 0;
+    font-size: 0.85em;
+    line-height: 1.4;
+}
+
+/* A "Contact:" link lands on /people/#their-name; flash the card so it is
+   obvious which person the visitor was sent to. box-shadow and outline are
+   painted outside the box, so the highlight never shifts the grid. */
+.person:target {
+    animation: person-highlight 2s ease-out;
+}
+
+@keyframes person-highlight {
+    0%, 35% {
+        background-color: rgba(78, 42, 132, 0.14);
+        box-shadow: 0 0 0 2px rgba(78, 42, 132, 0.45);
+    }
+    100% {
+        background-color: transparent;
+        box-shadow: 0 0 0 2px rgba(78, 42, 132, 0);
+    }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .person:target {
+        animation: none;
+        box-shadow: 0 0 0 2px rgba(78, 42, 132, 0.45);
+    }
 }

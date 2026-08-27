@@ -6,7 +6,11 @@
     {% assign email = person.email | strip %}
     {% assign website = person.website | strip %}
 
-    <div class="person">
+    {%- comment -%}
+      The slugified name is the anchor target for "Contact" links on the
+      research page, e.g. /people/#marko-sterbentz.
+    {%- endcomment -%}
+    <div class="person" id="{{ person.name | slugify }}">
       {% if person.image_path %}
         <div class="person__photo">
           <img src="{{ person.image_path | relative_url }}" alt="{{ person.alt | default: person.name }}">
