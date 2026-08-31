@@ -29,7 +29,7 @@ project3:
   - image_path: /assets/images/c3-placeholder.png
     alt: "mentora placeholder image"
     title: "Erasmus"
-    excerpt: ''
+    excerpt: 'A student companion that operationalizes individual tutoring based on goals and instructions of the course and student understanding. Grounded in the learning sciences, Erasmus helps in building intellectual agency through productive engagement, thinking to have the best possible interaction to help the student to learn instead of being focused on answering questions correctly.'
     people: ""
     contact: "Shubham Shahi"
 project4:
