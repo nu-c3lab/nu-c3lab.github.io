@@ -169,22 +169,15 @@ $link-color: #4e2a84;
     object-fit: contain;
 }
 
-.page__content .project__people {
+.page__content .project__contact {
     margin: 0.5em 0 0;
     font-size: 0.85em;
     line-height: 1.4;
 }
 
-.project__people-label,
 .project__contact-label {
     font-weight: bold;
     color: $muted-text-color;
-}
-
-.page__content .project__contact {
-    margin: 0.25em 0 0;
-    font-size: 0.85em;
-    line-height: 1.4;
 }
 
 /* A "Contact:" link lands on /people/#their-name; flash the card so it is

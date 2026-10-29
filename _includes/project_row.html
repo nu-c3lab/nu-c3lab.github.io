@@ -1,5 +1,5 @@
 {% comment %}
-  Mirrors the theme's feature_row include, with a "People" field added.
+  Mirrors the theme's feature_row include, with a "Contact" field added.
 {% endcomment %}
 {% assign locale = include.locale | default: site.locale %}
 {% if include.id %}
@@ -37,12 +37,6 @@
               {{ f.excerpt | markdownify }}
             </div>
           {% endif %}
-
-          {% assign people = f.people | strip %}
-          <p class="project__people">
-            <span class="project__people-label">People:</span>
-            {% if people != "" %}{{ people }}{% else %}<span class="blank-field"></span>{% endif %}
-          </p>
 
           {% comment %}
             Comma-separated full names. Each links to that person's card on the
