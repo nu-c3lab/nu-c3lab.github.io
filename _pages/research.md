@@ -14,7 +14,7 @@ project1:
   - image_path: /assets/images/c3-placeholder.png
     alt: "satyrn placeholder image"
     title: "Satyrn"
-    excerpt: 'A conversational system for interacting with your data.'
+    excerpt: 'A system designed for interactive data analysis that attempts to solve some of the issues inherent in modern language agent question answering over data, by (1) understanding the semantics of the data, (2) being transparent and therefore verifiable, and (3) surfacing ambiguities and allowing users to choose between multiple query interpretations.'
     contact: "Cameron Barrie, Marko Sterbentz"
 project2:
   - image_path: /assets/images/projects/tytan.png

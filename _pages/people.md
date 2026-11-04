@@ -29,7 +29,7 @@ current_people:
     alt: "Picture of Cameron"
     name: "Cameron Barrie"
     title: "PhD Candidate"
-    expertise: "I work on conversational systems that help non-technical users derive insights about their data."
+    expertise: "I work on conversational systems that help non-technical users derive insights about their data, all the while maintaining transparency and auditability as to how the user's input was interpreted and how the answer was reached."
     email: "cameron.barrie@u.northwestern.edu"
     website: "https://barrieca.github.io/"
   - image_path: /assets/images/people/donna.jpeg
