@@ -27,8 +27,10 @@
         {% endif %}
 
         <dl class="person__meta">
-          <dt>Expertise:</dt>
-          <dd>{% if expertise != "" %}{{ expertise }}{% else %}<span class="blank-field"></span>{% endif %}</dd>
+          {% if expertise != "" %}
+            <dt>Expertise:</dt>
+            <dd>{{ expertise }}</dd>
+          {% endif %}
 
           <dt>Email:</dt>
           {%- comment -%}

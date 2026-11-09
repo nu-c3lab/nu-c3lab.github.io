@@ -23,7 +23,7 @@ current_people:
     name: "Mohammed Alam"
     title: "Assistant Professor of Instruction, Deputy Director of MSAI"
     expertise: ""
-    email: ""
+    email: "mohammed.alam@northwestern.edu"
     website: "http://mohammedalam.weebly.com/"
   - image_path: /assets/images/people/cameron.jpg
     alt: "Picture of Cameron"
