@@ -12,12 +12,20 @@ classes:
 paper1:
   - image_path: /assets/images/c3-placeholder.png
     alt: "placeholder image 1"
+    title: "RingSQL: Schema-Independent Synthetic Data Generation for Text-to-SQL Reinforcement Learning"
+    url: "https://arxiv.org/abs/2601.05451"
+    excerpt: "Marko Sterbentz, Kevin Cushing, Cameron Barrie, and Kristian J. Hammond. \"RingSQL: Schema-Independent Synthetic Data Generation for Text-to-SQL Reinforcement Learning\". In <i>Findings of the Association for Computational Linguistics: EACL 2027 </i>, EACL 2027, Athens, Greece."
+    btn_label: "Paper"
+    btn_class: "btn--primary"
+paper2:
+  - image_path: /assets/images/c3-placeholder.png
+    alt: "placeholder image 1"
     title: "When Linear-Time Models Look Sublinear: Auditing Scaling Exponents in Long-Context Efficiency Benchmarks"
     url: "https://openreview.net/forum?id=e8I8fUMu5u"
     excerpt: "Aryan Dwivedi, Donna Hooshmand, and Kristian J. Hammond. \"When Linear-Time Models Look Sublinear: Auditing Scaling Exponents in Long-Context Efficiency Benchmarks\". <i>The Third Workshop on Long-Context Foundation Models</i>, NeurIPS 2026, Atlanta, GA, USA."
     btn_label: "Paper"
     btn_class: "btn--primary"
-paper2:
+paper3:
   - image_path: /assets/images/c3-placeholder.png
     alt: "placeholder image 2"
     title: "Tytan: Interactive Neurosymbolic Construction of Analytic Semantic Schemas from Relational Data"
@@ -25,7 +33,23 @@ paper2:
     excerpt: "Donna Hooshmand, Shubham Shahi, Cameron Barrie, Abhratanu Dutta, Marko Sterbentz, Harper Pack, and Kristian J. Hammond. \"Tytan: Interactive Neurosymbolic Construction of Analytic Semantic Schemas from Relational Data.\" arXiv preprint arXiv:2608.06331 (2026)."
     btn_label: "Paper"
     btn_class: "btn--primary"
-paper3:
+paper4:
+  - image_path: /assets/images/c3-placeholder.png
+    alt: "placeholder image 1"
+    title: "Mixed-Policy GRPO for Text-to-SQL with Off-Policy Data Generation"
+    url: "https://aclanthology.org/2026.surgellm-1.20.pdf"
+    excerpt: "Marko Sterbentz, Michael Robert Glass, Nhan Huu Pham, Dharmashankar Subramanian, and Kristian J. Hammond. \"Mixed-Policy GRPO for Text-to-SQL with Off-Policy Data Generation\". In <i>Proceedings of the First Workshop on Structured Understanding, Retrieval, and Generation in the LLM Era (SURGeLLM 2026)</i>, ACL 2026, San Diego, California, USA."
+    btn_label: "Paper"
+    btn_class: "btn--primary"
+paper5:
+  - image_path: /assets/images/c3-placeholder.png
+    alt: "placeholder image 1"
+    title: "OpenExempt: A Diagnostic Benchmark for Legal Reasoning and a Framework for Creating Custom Benchmarks on Demand"
+    url: "https://aclanthology.org/2026.findings-acl.1328.pdf"
+    excerpt: "Sergio Servantez, Sarah B. Lawsky, Rajiv Jain, Daniel W. Linna Jr., and Kristian J. Hammond. \"OpenExempt: A Diagnostic Benchmark for Legal Reasoning and a Framework for Creating Custom Benchmarks on Demand\". In <i>Findings of the Association for Computational Linguistics: ACL 2026</i>, ACL 2026, San Diego, California, USA."
+    btn_label: "Paper"
+    btn_class: "btn--primary"
+paper6:
   - image_path: /assets/images/c3-placeholder.png
     alt: "placeholder image 1"
     title: "Satyrn: A Platform for Analytics Augmented Generation"
@@ -33,7 +57,7 @@ paper3:
     excerpt: "Marko Sterbentz, Cameron Barrie, Shubham Shahi, Abhratanu Dutta, Donna Hooshmand, Harper Pack, and Kristian J Hammond. 2024. \"Satyrn: A Platform for Analytics Augmented Generation\". In <i>Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing</i>, pages 6360–6385, Miami, Florida, USA. Association for Computational Linguistics."
     btn_label: "Paper"
     btn_class: "btn--primary"
-paper4:
+paper7:
   - image_path: /assets/images/c3-placeholder.png
     alt: "placeholder image 2"
     title: "Chain of Logic: Rule-Based Reasoning with Large Language Models"
@@ -41,7 +65,7 @@ paper4:
     url: "https://aclanthology.org/2024.findings-acl.159.pdf"
     btn_label: "Paper"
     btn_class: "btn--primary"
-paper5:
+paper8:
   - image_path: /assets/images/c3-placeholder.png
     alt: "placeholder image 3"
     title: "Machine Teaching Allows for Rapid Development of Automated Systems for Retinal Lesion Detection From Small Image Datasets"
@@ -49,7 +73,7 @@ paper5:
     url: "https://journals.healio.com/doi/abs/10.3928/23258160-20240410-01"
     btn_label: "Paper"
     btn_class: "btn--primary"
-paper6:
+paper9:
   - image_path: /assets/images/c3-placeholder.png
     alt: "placeholder image 4"
     title: "A debiasing technique for place-based algorithmic patrol management"
@@ -57,7 +81,7 @@ paper6:
     excerpt: "Alexander Einarsson, Simen Oestmo, Lester Wollman, Duncan Purves, and Ryan Jenkins. \"A debiasing technique for place-based algorithmic patrol management.\" arXiv preprint arXiv:2401.06162 (2023)."
     btn_label: "Paper"
     btn_class: "btn--primary"
-paper7:
+paper10:
   - image_path: /assets/images/c3-placeholder.png
     alt: "placeholder image 5"
     title: "Lightweight Knowledge Representations for Automating Data Analysis"
@@ -65,7 +89,7 @@ paper7:
     url: "/assets/papers/Lightweight_Knowledge_Representations_for_Automating_Data_Analysis__Arxiv_2023_.pdf"
     btn_label: "Paper"
     btn_class: "btn--primary"
-paper8:
+paper11:
   - image_path: /assets/images/c3-placeholder.png
     alt: "placeholder image 6"
     title: "Computable Contracts by Extracting Obligation Logic Graphs"
@@ -73,7 +97,7 @@ paper8:
     excerpt: "Servantez, Sergio & Lipka, Nedim & Siu, Alexa & Aggarwal, Milan & Krishnamurthy, Balaji & Garimella, Aparna & Hammond, Kristian & Jain, Rajiv. (2023). \"Computable Contracts by Extracting Obligation Logic Graphs\". 267-276. 10.1145/3594536.3595162."
     btn_label: "Paper"
     btn_class: "btn--primary"
-paper9:
+paper12:
   - image_path: /assets/images/c3-placeholder.png
     alt: "placeholder image 7"
     title: "Toward a Safety Science in Artificial Intelligence"
@@ -81,7 +105,7 @@ paper9:
     excerpt: "Alexander Einarsson, Andrea Azzo, Kristian J. Hammond. \"Toward a Safety Science in Artificial Intelligence\". Center for Advancing Safety of Machine Intelligence Workshop White Paper. 2023."
     btn_label: "Paper"
     btn_class: "btn--primary"
-paper10:
+paper13:
   - image_path: /assets/images/c3-placeholder.png
     alt: "placeholder image 8"
     title: "A user-centered approach to developing an AI system analyzing U.S. federal court data"
@@ -89,7 +113,7 @@ paper10:
     excerpt: "Rachel F. Adler, Andrew Paley, Andong L. Li Zhao, Harper Pack, Sergio Servantez, Adam R. Pah, Kristian J. Hammond, K., & SCALES OKN Consortium (2023). \"A user-centered approach to developing an AI system analyzing U.S. federal court data\". <i>Artificial Intelligence and Law</i>, 31(3), 547-570."
     btn_label: "Paper"
     btn_class: "btn--primary"
-paper11:
+paper14:
   - image_path: /assets/images/c3-placeholder.png
     alt: "placeholder image 9"
     title: "Requirements for Open Political Information: Transparency Beyond Open Data"
@@ -97,7 +121,7 @@ paper11:
     excerpt: "Andong Luis Li Zhao, Andrew Paley, Rachel Adler, Harper Pack, Sergio Servantez, Alexander Einarsson, Cameron Barrie, Marko Sterbentz, Kristian Hammond. \"Requirements for Open Political Information: Transparency Beyond Open Data\". Presented at <i>AAAI FSS-21: Artificial Intelligence in Government and Public Sector</i>, Washington, DC, USA. November 4-6, 2021."
     btn_label: "Paper"
     btn_class: "btn--primary"
-paper12:
+paper15:
   - image_path: /assets/images/c3-placeholder.png
     alt: "placeholder image 10"
     title: "From Data to Information: Automating Data Science to Explore the US Court System"
@@ -105,7 +129,7 @@ paper12:
     excerpt: "Paley, Andrew, Andong L. Li Zhao, Harper Pack, Sergio Servantez, Rachel F. Adler, Marko Sterbentz, Adam Pah et al. \"From data to information: automating data science to explore the US court system.\" In <i>Proceedings of the Eighteenth International Conference on Artificial Intelligence and Law</i>, pp. 119-128. 2021."
     btn_label: "Paper"
     btn_class: "btn--primary"
-paper13:
+paper16:
   - image_path: /assets/images/c3-placeholder.png
     alt: "placeholder image 11"
     title: "How to build a more open justice system"
@@ -140,3 +164,9 @@ paper13:
 {% include feature_row id="paper12" type="left" %}
 
 {% include feature_row id="paper13" type="left" %}
+
+{% include feature_row id="paper14" type="left" %}
+
+{% include feature_row id="paper15" type="left" %}
+
+{% include feature_row id="paper16" type="left" %}
