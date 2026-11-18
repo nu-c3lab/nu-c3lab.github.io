@@ -14,7 +14,7 @@ paper1:
     alt: "placeholder image 1"
     title: "RingSQL: Schema-Independent Synthetic Data Generation for Text-to-SQL Reinforcement Learning"
     url: "https://arxiv.org/abs/2601.05451"
-    excerpt: "Marko Sterbentz, Kevin Cushing, Cameron Barrie, and Kristian J. Hammond. \"RingSQL: Schema-Independent Synthetic Data Generation for Text-to-SQL Reinforcement Learning\". In <i>Findings of the Association for Computational Linguistics: EACL 2027 </i>, EACL 2027, Athens, Greece."
+    excerpt: "Marko Sterbentz, Kevin Cushing, Cameron Barrie, and Kristian J. Hammond. \"RingSQL: Schema-Independent Synthetic Data Generation for Text-to-SQL Reinforcement Learning\". In <i>Findings of the Association for Computational Linguistics: EACL 2027</i>, EACL 2027, Athens, Greece."
     btn_label: "Paper"
     btn_class: "btn--primary"
 paper2:
